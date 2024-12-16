@@ -1,5 +1,2 @@
-;(function(){
-    function tb(s){
-      alert('xin chao);
-    }
+;(function(){function tb(){alert('xin chao);}
 }).call(this);
