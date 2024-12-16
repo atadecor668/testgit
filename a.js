@@ -1,1 +1,5 @@
-function tb(){alert('Thong bao 1')} module.exports={tb}
+;(function(){
+    function tb(s){
+      alert('xin chao);
+    }
+}).call(this);
